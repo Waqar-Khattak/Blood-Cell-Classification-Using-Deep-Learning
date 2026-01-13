@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files (optional - uncomment if you want to exclude)
+# train/
+# test/
+# *.pth
+# *.pt
+
+# Model checkpoints
+best_*.pth
+*.pth
+
+# Generated files
+*.png
+*.jpg
+class_distribution.png
+sample_images.png
+training_comparison.png
+confusion_matrices.png
+
+# Environment files
+.env
+.env.local
