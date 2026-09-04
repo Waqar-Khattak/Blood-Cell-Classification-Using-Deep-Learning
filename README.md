@@ -62,19 +62,12 @@ tqdm>=4.50.0
 ```
 
 ## Installation
-
-1. Clone this repository:
-```bash
-git clone <your-repository-url>
-cd SUbmission
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Open and run the Jupyter notebook:
+2. Open and run the Jupyter notebook:
 ```bash
 jupyter notebook "Classification code.ipynb"
 ```
