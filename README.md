@@ -1,6 +1,7 @@
 # Blood Cell Classification Using Deep Learning
 
 A comprehensive deep learning project for classifying blood cell types using PyTorch and Convolutional Neural Networks.
+PyTorch project for classifying blood-cell images into 8 types using SimpleCNN, ImprovedCNN, and ResNet architectures, with data augmentation, ablation studies, and detailed evaluation.
 
 ## Project Overview
 
@@ -115,8 +116,7 @@ The main notebook `Classification code.ipynb` contains:
 - `training_comparison.png`: Training curves comparison
 
 ## Author
-
-[Your Name]
+Waqar Ahmad
 
 ## License
 
